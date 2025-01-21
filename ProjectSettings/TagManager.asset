@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Harmful
+  - Enemy
+  - Collectible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Foreground
+  - Pit
+  - Objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground_Floor
+    uniqueID: 1703503039
+    locked: 0
+  - name: Foreground_Decor
+    uniqueID: 3405345871
+    locked: 0
+  - name: Foreground_Wall
+    uniqueID: 836622669
+    locked: 0
+  - name: Foreground_WallDecor
+    uniqueID: 4171577131
+    locked: 0
+  - name: Players_Back
+    uniqueID: 3002733155
+    locked: 0
+  - name: Objects
+    uniqueID: 2478445175
+    locked: 0
+  - name: Players_Front
+    uniqueID: 1543184695
+    locked: 0
+  - name: UI
+    uniqueID: 509859997
+    locked: 0

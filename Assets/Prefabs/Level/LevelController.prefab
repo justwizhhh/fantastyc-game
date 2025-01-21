@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5702029347172485715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4881026388231651710}
+  - component: {fileID: 7733572590250588000}
+  m_Layer: 0
+  m_Name: LevelController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4881026388231651710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5702029347172485715}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.4402049, y: -2.9752028, z: -9.879886}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7733572590250588000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5702029347172485715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa1a03406ecb8a44086e9413eb4fab0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LevelName: Test
+  LevelDescription: This is a test level
+  LevelCenter: {fileID: 0}
+  LevelSpawnArea: {fileID: 0}
+  UIObjectCount: 6
+  LevelObjects:
+  - {fileID: 3928027751287923364, guid: 16dc9f309d0510647aedee7f1036ca8b, type: 3}
+  - {fileID: 3928027751287923364, guid: 93a3388ac9a0fcf44a6e93204e0f0178, type: 3}
+  - {fileID: 3928027751287923364, guid: 867e32b7ea5ed0241920beff949600e8, type: 3}
+  - {fileID: 3928027751287923364, guid: 3e3bb0e61006db84a993d65ed3fac216, type: 3}
+  - {fileID: 3928027751287923364, guid: b082078b75331fa478e45b41fc64741a, type: 3}
+  - {fileID: 3928027751287923364, guid: 6f9552b269527a149b8b12cb3692712b, type: 3}
+  - {fileID: 3928027751287923364, guid: 04afc48c9a33b5d48aac1c80f84e7dfd, type: 3}
+  - {fileID: 3928027751287923364, guid: e355976fc9982f246bed91020aef0efd, type: 3}
+  - {fileID: 3928027751287923364, guid: 02597131b549ca44287a0c874f3fec49, type: 3}
+  - {fileID: 3928027751287923364, guid: f159863b94b681f44905c2171e0c07e3, type: 3}
+  - {fileID: 3928027751287923364, guid: 166519b7c2037c64a82703e2718fe38e, type: 3}
+  - {fileID: 3928027751287923364, guid: 9ba06f8bb5006ec4ea747d4c131aa1e9, type: 3}
+  - {fileID: 3928027751287923364, guid: 4fca579fa6ac29145913840a6ed6ac15, type: 3}
+  - {fileID: 3928027751287923364, guid: ea11db23fe116da44abf997df447fe46, type: 3}
+  - {fileID: 3928027751287923364, guid: bc9dd38415dc08549b5f7ef115c0ec11, type: 3}
+  - {fileID: 3928027751287923364, guid: 898a6a230ed52014984b4f7b27dfe7d4, type: 3}
+  - {fileID: 3928027751287923364, guid: 9e79d5b838b71f943ac632a9e3891419, type: 3}
+  - {fileID: 3928027751287923364, guid: 2027f09bd4bc89948b6e88c71ce6b41f, type: 3}
+  currentPrevObjects: []
+  selectedPrevObjects: []
+  placedPrevObjects: []
+  currentLevelObjects: []
+  objectPlaceSpaces: []
