@@ -4,6 +4,6 @@
 
 ---
 
-Made in Unity 2023, and heavily inspired by Duck Game and Ultimate Chicken Horse. This is a project I worked in for around ~3 months in the summer of 2024, and is something I still add bits and pieces to, albeit in very scarce quantities, due to much of my time being consumed by university studies. 
+Made in Unity 2023, and heavily inspired by Duck Game and Ultimate Chicken Horse. This is a project that I worked on for around ~3 months in the summer of 2024 as a basic game prototype to demonstrate its core features. Work on the project came to a hault once I had to shift my focus towards university studies.
 
-Everything you see here is still very WIP (work-in-progress)! Any code-related feedback is appreciated.
+Everything you see here is unfinished work-in-progress code that I never got around to cleaninig up and optimising!
